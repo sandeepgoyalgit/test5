@@ -1,0 +1,11 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "sandeep goyal",
+  "license": "ISC"
+}
